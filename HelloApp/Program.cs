@@ -10,6 +10,7 @@ namespace HelloApp
             Console.WriteLine("Welcome to Git");
             Console.WriteLine("Git and GitHub are not same");
             Console.WriteLine("Bye");
+            Console.ReadLine();
         }
     }
 }
